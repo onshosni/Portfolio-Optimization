@@ -1,2 +1,2 @@
-# Portfolio-Optimization
-Portfolio optimization and simulation in Python
+# Portfolio Optimization
+Optimization and Simulation of a Tunisian stock market portfolio of shares using Python.
